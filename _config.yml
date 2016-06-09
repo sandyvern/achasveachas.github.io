@@ -1,0 +1,21 @@
+# Site settings
+title: Hello World
+header-img: img/home-bg.png
+email: chilikkal@gmail.com
+copyright_name: achasveachas
+description: > # this means to ignore newlines until "baseurl:"
+  A journy through coding.
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  achasveachas
+learn_profile: achasveachas
+email_username: chilikkal@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
