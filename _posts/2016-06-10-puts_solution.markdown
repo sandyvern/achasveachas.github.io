@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "'puts #{solution}'"
-date:   2016-06-10 02:29:10 +0000
+title:  "puts #{solution}"
+date:   2016-06-09 22:29:10 -0400
 ---
 
 
