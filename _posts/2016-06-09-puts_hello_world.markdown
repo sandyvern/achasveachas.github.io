@@ -9,5 +9,13 @@ date:   2016-06-09 10:00:06 -0400
   
   
   
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  In this blog I will document my journy through the world of coding. 
+  
+  
+  The beginning of the journy is missing; I started about 2 months ago. I may yet get around to writing up that part of it as well.
+  
+  In the meantime, sit back and enjoy.
+  
+  
+  P.S. It goes without saying that if anyone who happens to chance upon this blog has any feedback at all it will be extremely welcomed.
 
