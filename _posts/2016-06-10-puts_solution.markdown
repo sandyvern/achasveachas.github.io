@@ -42,4 +42,5 @@ date:   2016-06-09 22:29:10 -0400
 (Credit: [XKCD](https://xkcd.com/974/))
 
 
+P.S. If anyone is interested, the project can be found [here](https://github.com/achasveachas/ttt-with-ai-project-v-000), If anyone has any suggestions on how it can be improved, especially the #opposite_corner method in the article, I would be extremely thankful.
 
