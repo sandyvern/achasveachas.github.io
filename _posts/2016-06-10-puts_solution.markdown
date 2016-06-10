@@ -30,6 +30,8 @@ date:   2016-06-09 22:29:10 -0400
   end
 ```
 
+ (In english what this means is simply: if the top right corner is taken and the bottom left one is free go there. If the top left is taken and the bottom right is free take that one, and so on for all 4 corners)
+
  The actual thought that blew me was this: here I’m breaking my head trying to automate a method to do something, but why? There are exactly 4 possible moves. Is it really worth the headaches, frustration, all-nighters, and sleepy workdays? Not to mention all the cups of Starbucks I needed just to get through the day? All just so I can automate a process that I could easily do manually, and probably in less lines of code?
  
  Sure we programmers are lazy, and if we can automate something we don’t like to do it manually. I have to admit, I’m still not as happy with my code as I probably would have been had I figured out a more elegant solution. Nevertheless, I believe once in a while we have to know when to step back, when to say “listen, you are overcomplicating this, do it simply and then go get some sleep!”
