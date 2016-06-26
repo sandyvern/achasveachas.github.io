@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "gem instal swim"
+title:  "gem install swim"
 date:   2016-06-26 16:18:12 -0400
 ---
 
