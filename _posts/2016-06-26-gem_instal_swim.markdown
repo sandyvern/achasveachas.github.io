@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "gem instal swim"
-date:   2016-06-26 20:18:12 +0000
+date:   2016-06-26 16:18:12 -0400
 ---
 
 
@@ -27,5 +27,5 @@ And then magic happened, just like 7 year old me, I realized that if I didn’t 
 
 I wouldn’t say I know how to swim now, but I’m definitely confident enough that I could thrash my way through this.
 
-I guess by now you might be wondering what kind of gem I made, and I probably should write another blogpost about that, but for now I think I’ll take a break, I need to teach my 7 year-old son how to swim.
+I guess by now you might be wondering what kind of gem I made, abut for now I think this post went a bit too long, I need to go teach my 7 year-old son how to swim...
 
