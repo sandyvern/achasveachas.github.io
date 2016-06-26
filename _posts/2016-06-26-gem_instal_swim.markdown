@@ -23,9 +23,9 @@ For the past 2 months or so I’ve been learning how to code, and for the most p
 
 Then came the final project, the Reading part of the project was pretty simple; we just want you to build a gem on your own now, no help from us, we won’t set up an environment, we won’t write tests, you do it all. I read that and I was like “Whaaaaa?!?!?” I was used to following instructions, tell me what to do and I’ll figure out how to do it, but here they wanted me to figure out what to do as well. I felt clueless and lost, almost like that 7 year old me in the pool.
 
-And then magic happened, just like 7 year old me, I realized that if I didn’t start thrashing I may as well give up now. Si I started reading, following endless rabbit-holes of links, watching YouTube lectures (shout out to Avi, one of the best teachers I encountered in my life), and before I knew it (easy to say, actually more like a week and a half later), I had a sort-of-working gem. 
+And then magic happened, just like 7 year old me, I realized that if I didn’t start thrashing I may as well give up now. So I started reading, following endless rabbit-holes of links, watching YouTube lectures (shout out to Avi, one of the best teachers I encountered in my life), and before I knew it (easy to say, actually more like a week and a half later), I had a sort-of-working gem. 
 
 I wouldn’t say I know how to swim now, but I’m definitely confident enough that I could thrash my way through this.
 
-I guess by now you might be wondering what kind of gem I made, abut for now I think this post went a bit too long, I need to go teach my 7 year-old son how to swim...
+I guess by now you might be wondering what kind of gem I made, but for now I think this post went a bit too long, I need to go teach my 7 year-old son how to swim...
 
