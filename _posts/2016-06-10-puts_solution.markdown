@@ -5,7 +5,7 @@ date:   2016-06-09 22:29:10 -0400
 ---
 
 
- So last night I had an epiphany. It's the kind of inspiration that only comes at 3 am when the house is quiet and your head is about to explode from a night of writing (and rewriting) code.
+ Last night I had an epiphany. It's the kind of inspiration that only comes at 3 am when the house is quiet and your head is about to explode from a night of writing (and rewriting) code.
  
  For 2 nights I've been up cracking my head trying to write a working method. I am in middle of writing a game of Tic-Tac-Toe, where you can play against the computer. Obviously, in order to ensure my game isn't **completely** boring I need my intelligent computer player to have some level of strategy.
  
