@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "program[0]"
-date:   2016-08-08 19:19:16 +0000
+date:   2016-08-08 15:19:17 -0400
 ---
 
 
@@ -17,7 +17,11 @@ My first instinct was to right away start rewriting, refactoring, and restructur
 
 
 
+
 ****
+
+
+
 
 I'm sure by now you're curious to see the program and find out how that mathematical trick works  :)
 
