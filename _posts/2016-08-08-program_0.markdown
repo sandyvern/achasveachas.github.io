@@ -40,16 +40,21 @@ You ask someone to choose a number between 1 and 100. You then ask them to divid
 You should now have 3 numbers, the remainders of dividing the original number into 3, 5 and 7; let's call them x3, x5 and x7 respectively. Multiply these numbers as follows: x3 should be multiplied by 70, x5 by 21 and x7 by 15. Add them all up and if it adds up to more than 100 (technically, 105) subtract 105 until you get the right number.
 
 An example: Let's take the number 32.  
+
 x3 = 31 % 3 = 2   
 x5 = 31 % 5 = 2  
 x7 = 31 % 7 = 4  
 
 so now let’s multiply them:  
+
 x3 \* 70 = 140  
 x5 \* 21 = 42  
 x7 \* 15 = 60  
+
 Adding them up we get:  
+
 140 + 42 + 60 = 242  
+
 Subtracting 105 we get 137, still more than 105, so we subtract 105 again and get 32, our original number!
 
 This trick can work for numbers larger than 100 as well but you have to know in which group of 100 (technically 105) the original number is in. In the case of larger numbers you might have to ADD 105 instead of subtracting in order to get to the right number.
