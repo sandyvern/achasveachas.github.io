@@ -1,0 +1,56 @@
+---
+layout: post
+title:  "program[0]"
+date:   2016-08-08 19:19:16 +0000
+---
+
+
+Every programmer, I assume, has a soft spot for the first piece of code they ever wrote. For me it was a nifty little CLI program that runs an interesting mathematical trick I learned from my father. 
+
+I wrote this program when I was still in middle of doing the Intro To Ruby course on [Learn.co](http://learn.co/with/achasveachas) (which BTW, is highly recommended if you are looking into a career in programming), only a few weeks after I started dabbling in coding. At the time I wrote it I was pretty proud of my achievement, the code had structure, it was user friendly, and it contained provisions for different edge cases. All in all, a pretty neat program if I could say so myself!
+
+That is, until I went back to it recently. All I had to do was take a quick look to see how far I've come over the past few months. What I saw was the most amateurish piece of code imaginable (though I still have to admit, it's not bad for an amateur...)
+
+Looking at my first piece of code was both endearing (look what a cute programmer I used to be :), and humbling (This is how I'll be looking at my current code in a few months from now).
+
+My first instinct was to right away start rewriting, refactoring, and restructuring that embarrassment, but on second thought I decided to leave it as is. I could always write a new program for my nifty mathemagic trick, maybe even make it into a proper web app soon, but that piece of code will always remain my first piece of code...
+
+
+
+****
+
+I'm sure by now you're curious to see the program and find out how that mathematical trick works  :)
+
+The program can be found [here](https://github.com/achasveachas/Igros-math-trick).
+
+You can play around with it a bit before reading about the trick itself.
+
+The trick was taught to me by my father when I was a kid. He found it in a book of letters by the [Lubavitcher Rebbe](https://en.wikipedia.org/wiki/Menachem_Mendel_Schneerson), who in turn was quoting a 15th century Talmudic work called the Kol-Bo.
+
+The Kol-Bo brings it as a trick Yeshiva students used to in order to amuse themselves (this was before the days when you cat gifs were but a mouse-click away), as a way "to find a person’s age through logic [without being told explicitly]", though the trick can work for any number.
+
+I'm not sure how the trick works; I just know how to do it.
+
+You ask someone to choose a number between 1 and 100. You then ask them to divide the number into 3 and give you the remainder (e.g. if the number was 10, 9/3=0 and then the remainder is 1). Then ask them to divide their original number into 5 and give you the remainder of that, and then do the same with 7. 
+
+You should now have 3 numbers, the remainders of dividing the original number into 3, 5 and 7; let's call them x3, x5 and x7 respectively. Multiply these numbers as follows: x3 should be multiplied by 70, x5 by 21 and x7 by 15. Add them all up and if it adds up to more than 100 (technically, 105) subtract 105 until you get the right number.
+
+An example: Let's take the number 31. 
+x3 = 31 % 1 = 1 
+x5 = 31 % 5 = 1
+x7 = 31 % 7 = 3
+
+so now let’s multiply them:
+x3 \* 70 = 70
+x5 \* 21 = 21
+x7 \* 15 = 45
+Adding them up we get:
+70 + 21 + 45 = 136
+Subtracting 105 we get our original number 31
+
+This trick can work for numbers larger than 100 as well but you have to know in which group of 100 (technically 105) the original number is in. In the case of larger numbers you might have to ADD 105 instead of subtracting in order to get to the right number.
+
+The program I wrote assumes a number between 1 and a 100 (though it will still work up to 105), one day when I build it up I'll find a way to make it work for larger numbers as well.
+
+As always, I hope you will take some time to look at the code, if you have any suggestions or comments, or if you have any insight into how the actual trick works, please get in touch.
+
