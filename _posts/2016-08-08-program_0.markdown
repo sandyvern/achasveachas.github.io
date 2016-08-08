@@ -4,7 +4,6 @@ title:  "program[0]"
 date:   2016-08-08 15:19:17 -0400
 ---
 
-**# Looking back at my very first program.**
 
 Every programmer, I assume, has a soft spot for the first piece of code they ever wrote. For me it was a nifty little CLI program that runs an interesting mathematical trick I learned from my father. 
 
