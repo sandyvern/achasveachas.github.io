@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: chilikkal@gmail.com
 copyright_name: achasveachas
 description: > # this means to ignore newlines until "baseurl:"
-  A journy through coding.
+  A journey through coding.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  achasveachas
