@@ -41,9 +41,9 @@ You should now have 3 numbers, the remainders of dividing the original number in
 
 An example: Let's take the number 32.  
 
-x3 = 31 % 3 = 2   
-x5 = 31 % 5 = 2  
-x7 = 31 % 7 = 4  
+x3 = 32 % 3 = 2   
+x5 = 32 % 5 = 2  
+x7 = 32 % 7 = 4  
 
 so now let’s multiply them:  
 
