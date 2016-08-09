@@ -9,7 +9,7 @@ date:   2016-06-09 10:00:06 -0400
   
   
   
-  In this blog I will document my journy through the world of coding. 
+  In this blog I will document my journey through the world of coding. 
   
   
   The beginning of the journy is missing; I started about 2 months ago. I may yet get around to writing up that part of it as well.
