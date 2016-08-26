@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Enter your title here"
-date:   2016-08-26 00:43:49 +0000
+title:  "Tic Tac Toe Tips"
+date:   2016-08-25 20:43:49 -0400
 ---
 
 
