@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tic Tac Toe Tips"
+title:  "Tic Tac Tips"
 date:   2016-08-25 20:43:49 -0400
 ---
 
