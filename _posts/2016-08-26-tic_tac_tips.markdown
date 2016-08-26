@@ -5,8 +5,8 @@ date:   2016-08-25 20:43:49 -0400
 ---
 
 
-The other day I was helping a friend who is a little behind me on [Learn](https://learn.co/with/achasveachas
-). He is trying to program a Tic Tac Toe game where you can play against a computer, and the computer wins.
+The other day I was helping a friend, a fellow student on [Learn](https://learn.co/with/achasveachas
+) (a Learner as we call them). He is trying to program a Tic Tac Toe game where you can play against a computer, and the computer wins.
 
 The [TTT-with-AI project](https://learn.co/tracks/full-stack-web-development/object-oriented-ruby/final-projects/tic-tac-toe-with-ai) is the most challenging project up until that point in the curriculum, yet it is also one of the coolest projects throughout. It's the first time you actually create something that you can show off to non-programming friends (in fact, you can see mine [here](https://github.com/achasveachas/ttt-with-ai-project-v-000)).
 
