@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "program[0] 2.0"
+date:   2016-08-28 15:28:52 +0000
+---
+
+
+A few weeks ago I [wrote about](http://http://yechiel.me/2016/08/08/program_0/) the first program I ever wrote. In that blogpost I spoke about the nostalgia of looking back at that horrndous, yet in a certain way beautiful, piece of code.
+
+I did mention that someday I would improve it, and thta someday actually came.
+
+I'm sure as I learn more and grow as a programmer I will find ways to improve it even more, but for know I rewrote it and packaged it as a Ruby Gem that can be accessed on [rubygems.org](http://https://rubygems.org/gems/igros). 
+
+You can also download it by running `gem install igros` in your terminal and then fire it up by simply typing `igros` (Igros Kodesh, being the name of the book I found the math trick in).
+
+Enjoy!
