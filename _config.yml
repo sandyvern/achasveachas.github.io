@@ -5,7 +5,7 @@ email: chilikkal@gmail.com
 copyright_name: achasveachas
 description: > # this means to ignore newlines until "baseurl:"
   A journey through coding.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  achasveachas
 learn_profile: achasveachas
